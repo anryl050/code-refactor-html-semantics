@@ -5,73 +5,83 @@
 }
 
 body {
-    background-color: #d9dcd6;
-}
+    background-color: #d9dcd6;}
 
+/* Styling/positioning of the header element. */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
-}
+    color: #ffffff;}
 
+/* Styling of the main header (h1) element. */
 .header h1 {
     display: inline-block;
-    font-size: 48px;
-}
+    font-size: 48px;}
 
 .header  h1 .seo {
-    color: #d9dcd6;
-}
+    color: #d9dcd6;}
 
+/* Styling/positioning of the navigation links. */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
-}
+    font-size: 20px;}
 
 .header nav ul li {
     list-style-type: none;
     display: inline-block;
-    margin-left: 25px;
-}
+    margin-left: 25px;}
 
 a {
     color: #ffffff;
-    text-decoration: none;
-}
+    text-decoration: none;}
 
-p {
-    font-size: 16px;
-}
+p { font-size: 16px;}
 
+/* Styling/positioning of the background image. */
 .hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
-    background-position: center;
-}
+    background-position: center;}
 
+/* Location of the "Online Reputation" image in the main-content section. */
 .float-left {
     float: left;
-    margin-right: 25px;
-}
+    margin-right: 25px;}
 
+/* Location of the "Search Engine" and "Social Media" images in the main-content section. */
 .float-right {
     float: right;
-    margin-left: 25px;
-}
+    margin-left: 25px;}
 
+/* Styling of the elements in the content/main-content sections. */
 .content {
     width: 75%;
     display: inline-block;
-    margin-left: 20px;
-}
+    margin-left: 20px;}
 
+.main-content {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;}
+
+.main-content img {
+    max-height: 200px;}
+
+.main-content h2 {
+    margin-bottom: 20px;
+    font-size: 36px;}
+
+/* Styling of the elements in the benefits/benefits-property sections. */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -80,53 +90,27 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-}
+    background-color: #2589bd;}
 
-/*-Consolidated the style for the "Benefits" sections-*/
 .benefit-property {
     margin-bottom: 32px;
-    color: #ffffff;
-}
+    color: #ffffff;}
 
-/*-Consolidated the formating for the "Benefits" header*/
 .benefit-property h3 {
     margin-bottom: 10px;
-    text-align: center;
-}
+    text-align: center;}
 
-/*-Consolidated the formating for the "Benefits" images*/
 .benefit-property  img {
     display: block;
     margin: 10px auto;
-    max-width: 150px;
-}
+    max-width: 150px;}
 
-.main-content {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.main-content img {
-    max-height: 200px;
-}
-
-.main-content h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
+/* Styling of the elements in the footer sections. */
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
+    text-align: center;}
 
 .footer h2 {
-    font-size: 20px;
-}
+    font-size: 20px;}
