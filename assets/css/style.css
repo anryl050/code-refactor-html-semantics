@@ -50,16 +50,6 @@ p { font-size: 16px;}
     background-size: cover;
     background-position: center;}
 
-/* Location of the "Online Reputation" image in the main-content section. */
-.float-left {
-    float: left;
-    margin-right: 25px;}
-
-/* Location of the "Search Engine" and "Social Media" images in the main-content section. */
-.float-right {
-    float: right;
-    margin-left: 25px;}
-
 /* Styling of the elements in the content/main-content sections. */
 .content {
     width: 75%;
@@ -76,6 +66,16 @@ p { font-size: 16px;}
 
 .main-content img {
     max-height: 200px;}
+
+/* Location of the "Online Reputation" image in the main-content section. */
+.float-left {
+    float: left;
+    margin-right: 25px;}
+
+/* Location of the "Search Engine" and "Social Media" images in the main-content section. */
+.float-right {
+    float: right;
+    margin-left: 25px;}
 
 .main-content h2 {
     margin-bottom: 20px;
