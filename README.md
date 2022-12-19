@@ -12,6 +12,6 @@ Besides optimizing the existing codebase to improvement website’s accessibilit
 ## Technology Used
 The website was built using HMTL and CSS programing languages. 
 ## Deployed Website URL
-URL:
+URL: https://anryl050.github.io/code-refactor-html-semantics/
 ## Website’s Final Look
 ![Horiseon Social Solutions Services, Inc  (2)](https://user-images.githubusercontent.com/118693401/208360277-1aa6b800-bbb2-42c2-91cb-6ccf24feeb08.JPG)
